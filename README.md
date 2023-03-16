@@ -1,2 +1,0 @@
-# demo-website-
-DEMO WEBSITE USING HTML AND CSS
